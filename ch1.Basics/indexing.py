@@ -1,4 +1,4 @@
-# print only the last for digits of this card number: 1234-5678-9012-3456
+# print only the last 4 digits of this card number: 1234-5678-9012-3456
 # print it in reverse too
 # remember that indexing form is [ start : end : step ]
 
